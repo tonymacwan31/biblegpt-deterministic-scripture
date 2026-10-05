@@ -1,0 +1,11 @@
+{
+  "aggregate_identity": "ac7bb6ba833bb49ef76399a2cc34bb26d658044ed063ff8308ee30b0ce59c796",
+  "file_count": 118,
+  "manifest_identity": "a06ea67dc5495f9d74c34e1bf5ed015855c964489d61a2e13db69a79d629bd48",
+  "manifest_sha256": "1707049624326eb126aead29689b27a2b254945fa05328dbb06041d5ad6d7794",
+  "policy_identity": "f95b8a20390da2a4d13e5f20a64a23b3abff126e2d27e1b63a5d3f4a43a74c58",
+  "product": "BibleGPT Deterministic Scripture",
+  "total_bytes": 18067252,
+  "version": "1.0.0",
+  "whole_artifact_identity": "sha256-framed-file-tree-v1:0e414aff0901cd63c1678dc8dd13506d280afdcac8e1cc9ac75b920675c299cd"
+}

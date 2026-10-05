@@ -1,0 +1,81 @@
+{
+  "archive": {
+    "filename": "BibleGPT-Deterministic-Scripture-1.0.0-macos-arm64-py3.14.6.tar.gz",
+    "sha256": "6fbdc8cdebd0cc157ff6bf4cc2bf307fbb64974487626f18c48733a61d690abc",
+    "size_bytes": 3252663
+  },
+  "artifact": {
+    "aggregate_identity": "ac7bb6ba833bb49ef76399a2cc34bb26d658044ed063ff8308ee30b0ce59c796",
+    "artifact_specific_approval_identity": "7b7a76bacb8fc3fa48e4d1d78918596dbf75d6e9075b5c80eca01308f193a998",
+    "file_count": 118,
+    "manifest_file": "public_artifact_manifest_v2.json",
+    "manifest_identity": "a06ea67dc5495f9d74c34e1bf5ed015855c964489d61a2e13db69a79d629bd48",
+    "manifest_sha256": "1707049624326eb126aead29689b27a2b254945fa05328dbb06041d5ad6d7794",
+    "policy_identity": "f95b8a20390da2a4d13e5f20a64a23b3abff126e2d27e1b63a5d3f4a43a74c58",
+    "total_bytes": 18067252,
+    "whole_artifact_identity": "sha256-framed-file-tree-v1:0e414aff0901cd63c1678dc8dd13506d280afdcac8e1cc9ac75b920675c299cd"
+  },
+  "authorization_scope": {
+    "artifact_distribution": true,
+    "artifact_publication": true,
+    "deployment": false,
+    "exact_archive_upload": true,
+    "github_release_creation": true,
+    "historical_approval_inheritance": false,
+    "history_free_initial_metadata_commit": true,
+    "metadata_publication": true,
+    "production_migration": false,
+    "public_repository_visibility": true,
+    "repository_creation": true,
+    "tag_creation_and_push": true
+  },
+  "authorized_at_utc": "2026-10-05T19:40:11Z",
+  "authorized_by": "project owner",
+  "destination": {
+    "release_title": "BibleGPT Deterministic Scripture 1.0.0",
+    "repository": "tonymacwan31/biblegpt-deterministic-scripture",
+    "tag": "v1.0.0",
+    "visibility": "public"
+  },
+  "explicit_exclusions": [
+    "private engineering repository and history",
+    "Stage 6AL private commits and branches",
+    "Candidate 1",
+    "smoke copy",
+    "generated .pyc and __pycache__",
+    "source archives",
+    "internal source-acceptance records",
+    "internal retention-attestation records",
+    "unrelated engineering evidence",
+    "additional artifact or release assets",
+    "deployment",
+    "production migration"
+  ],
+  "permitted_publication_surface": {
+    "git_tag": "v1.0.0",
+    "release_assets": [
+      "BibleGPT-Deterministic-Scripture-1.0.0-macos-arm64-py3.14.6.tar.gz",
+      "PUBLICATION_AUTHORIZATION.json"
+    ],
+    "repository_tree": "exactly public_metadata_inventory"
+  },
+  "product": "BibleGPT Deterministic Scripture",
+  "public_metadata_inventory": [
+    "README.md",
+    "RELEASE_NOTES.md",
+    "VERIFY.md",
+    "PROVENANCE.md",
+    "RIGHTS.md",
+    "ARTIFACT_IDENTITY.json",
+    "PUBLICATION_AUTHORIZATION.json",
+    "SHA256SUMS"
+  ],
+  "record_identity": {
+    "algorithm": "sha256-canonical-json-v1",
+    "sha256": "d95b0ebfd1916caf34bfe104fa6715e275c223ea749203667bc6ac2e5ba048b3"
+  },
+  "record_type": "biblegpt_publication_authorization",
+  "schema_id": "biblegpt-publication-authorization-v1",
+  "schema_version": 1,
+  "version": "1.0.0"
+}
